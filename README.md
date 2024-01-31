@@ -11,3 +11,5 @@ npm install
 add .env file
 
 add database url to .env with the following variable MONGODB_URI 
+
+add controllers and models directories if desired
